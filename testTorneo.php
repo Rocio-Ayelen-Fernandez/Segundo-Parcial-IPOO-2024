@@ -118,4 +118,5 @@ print_r($objTorneo->calcularPremioPartido($objPartidoFutbol2));
 echo "Partido_3\n";
 print_r($objTorneo->calcularPremioPartido($objPartidoFutbol3));
 
+echo $objTorneo . "\n";
 ?>
